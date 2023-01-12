@@ -3,7 +3,7 @@
 </p>
 <a href="https://theurbanbloomsfeedback.herokuapp.com/"><p align="center">See it Here!</p></a>
 
-This programming assistant is a versatile tool that can assist programmers with tasks such as troubleshooting code written in languages like JavaScript or React, translating code between different programming languages, and providing guidance and recommendations for improving code efficiency and readability.
+This Feedback Form is an easy way for the company to collect customers' experiences and opinions about their product and/or service. Feedback form used Python on the back-end with a publish to Heroku as an online webpage and used HTML and CSS on the front-end for UI/UX.
 
 ## What is the feedback form?
 The feedback form is being used to collect customers' experiences and opinions about their product and/or service.
