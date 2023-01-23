@@ -8,9 +8,9 @@ def send_mail(customer, dealer, rating, comments):
     login = 'aa4f19a5f4820b'
     password = 'be0be6417d97c2'
     message = f"<h3>New Feedback Submission</h3><ul><li>Customer: {customer}</li><li>Dealer: {dealer}</li><li>Rating: {rating}</li><li>Comments: {comments}</li></ul>"
-
-    sender_email = 'waleed.khan24@hotmail.com'
-    receiver_email = 'waleed.khan24@hotmail.com'
+    ## email of business goes here
+    sender_email = 'theurbanblooms@gmail.com'
+    receiver_email = 'theurbanblooms@gmail.com'
     msg = MIMEText(message, 'html')
     msg['Subject'] = 'The Urban Blooms Feedback'
     msg['From'] = sender_email
